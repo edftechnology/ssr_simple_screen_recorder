@@ -114,16 +114,24 @@ Para configurar/instalar/usar o `simplescreenrecorder` no `Linux Ubuntu` sem pre
     sudo apt list --upgradable
     sudo apt full-upgrade -y
     sudo apt install -y simplescreenrecorder
-    simplescreenrecorder
+    simplescreenrecorder --version
     ```
 
 
 ## Referências
 
-[1] BAERT, Maarten. **Simplescreenrecorder**. Disponível em: <https://www.maartenbaert.be/simplescreenrecorder/>. Acessado em: 07/09/2026.
+[1] BAERT, Maarten.
+**Simplescreenrecorder**.
+Disponível em: <https://www.maartenbaert.be/simplescreenrecorder/>.
+Acessado em: 07/09/2026.
 
-[2] UBUNTU. **Pacote `simplescreenrecorder`**. Disponível em: <https://packages.ubuntu.com/search?keywords=simplescreenrecorder>. Acessado em: 07/09/2026.
+[2] UBUNTU.
+**Pacote `simplescreenrecorder`**.
+Disponível em: <https://packages.ubuntu.com/search?keywords=simplescreenrecorder>.
+Acessado em: 07/09/2026.
 
-[3] OPENAI. **Instalar o `simplescreenrecorder` no `linux ubuntu` pelo `terminal emulator`**. Disponível em: <https://chatgpt.com/g/g-p-6980caf949648191ad6acfcdbe590f9e-instalar/c/e2b2dca9-50dc-42f5-93b6-e4b91f70d5cc>. ChatGPT. Acessado em: 07/09/2026.
-
-
+[3] OPENAI.
+**Instalar o `simplescreenrecorder` no `linux ubuntu` pelo `terminal emulator`**.
+Disponível em: <https://chatgpt.com/g/g-p-6980caf949648191ad6acfcdbe590f9e-instalar/c/e2b2dca9-50dc-42f5-93b6-e4b91f70d5cc>.
+ChatGPT.
+Acessado em: 07/09/2026.
